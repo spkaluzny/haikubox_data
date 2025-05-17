@@ -1,0 +1,858 @@
+Species,Scientific Name,UTC Date,Local Date,Local Time,Score,Count
+American Robin,Turdus migratorius,2025-05-14T23:58:33Z,14-May-2025,19:58:33,0.8471,4
+American Robin,Turdus migratorius,2025-05-14T23:57:32Z,14-May-2025,19:57:32,0.8627,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T23:52:26Z,14-May-2025,19:52:26,0.91,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T23:51:15Z,14-May-2025,19:51:15,0.48,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T23:51:05Z,14-May-2025,19:51:05,0.45,1
+American Goldfinch,Spinus tristis,2025-05-14T23:50:56Z,14-May-2025,19:50:56,0.61,1
+Pine Siskin,Spinus pinus,2025-05-14T23:50:42Z,14-May-2025,19:50:42,0.28,1
+Chipping Sparrow,Spizella passerina,2025-05-14T23:49:52Z,14-May-2025,19:49:52,0.43,1
+Chipping Sparrow,Spizella passerina,2025-05-14T23:49:46Z,14-May-2025,19:49:46,0.42,1
+Chipping Sparrow,Spizella passerina,2025-05-14T23:49:00Z,14-May-2025,19:49:00,0.37,1
+Chipping Sparrow,Spizella passerina,2025-05-14T23:48:53Z,14-May-2025,19:48:53,0.48,1
+American Goldfinch,Spinus tristis,2025-05-14T23:36:34Z,14-May-2025,19:36:34,0.8627,3
+American Goldfinch,Spinus tristis,2025-05-14T23:34:00Z,14-May-2025,19:34:00,0.9412,1
+Chipping Sparrow,Spizella passerina,2025-05-14T23:32:52Z,14-May-2025,19:32:52,0.29,1
+Palm Warbler,Setophaga palmarum,2025-05-14T23:30:47Z,14-May-2025,19:30:47,0.43,1
+American Robin,Turdus migratorius,2025-05-14T23:23:32Z,14-May-2025,19:23:32,0.8314,3
+American Robin,Turdus migratorius,2025-05-14T23:22:16Z,14-May-2025,19:22:16,0.8863,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T23:18:10Z,14-May-2025,19:18:10,0.8157,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T23:15:05Z,14-May-2025,19:15:05,0.43,1
+Northern Cardinal,Cardinalis cardinalis,2025-05-14T23:14:33Z,14-May-2025,19:14:33,0.8471,1
+American Crow,Corvus brachyrhynchos,2025-05-14T23:13:15Z,14-May-2025,19:13:15,0.9098,3
+Gray Catbird,Dumetella carolinensis,2025-05-14T23:12:46Z,14-May-2025,19:12:46,0.8157,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T23:12:27Z,14-May-2025,19:12:27,0.28,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T23:12:07Z,14-May-2025,19:12:07,0.53,1
+American Crow,Corvus brachyrhynchos,2025-05-14T23:12:01Z,14-May-2025,19:12:01,0.8627,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T23:08:08Z,14-May-2025,19:08:08,0.3,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T23:07:09Z,14-May-2025,19:07:09,0.26,1
+American Goldfinch,Spinus tristis,2025-05-14T22:59:29Z,14-May-2025,18:59:29,0.8314,1
+American Crow,Corvus brachyrhynchos,2025-05-14T22:57:56Z,14-May-2025,18:57:56,0.9333,1
+American Crow,Corvus brachyrhynchos,2025-05-14T22:50:44Z,14-May-2025,18:50:44,0.9529,2
+American Crow,Corvus brachyrhynchos,2025-05-14T22:48:47Z,14-May-2025,18:48:47,0.62,1
+American Crow,Corvus brachyrhynchos,2025-05-14T22:48:34Z,14-May-2025,18:48:34,0.44,1
+American Crow,Corvus brachyrhynchos,2025-05-14T22:48:07Z,14-May-2025,18:48:07,0.8627,3
+American Crow,Corvus brachyrhynchos,2025-05-14T22:47:04Z,14-May-2025,18:47:04,0.9176,1
+American Crow,Corvus brachyrhynchos,2025-05-14T22:46:49Z,14-May-2025,18:46:49,0.31,1
+Chipping Sparrow,Spizella passerina,2025-05-14T22:38:00Z,14-May-2025,18:38:00,0.32,1
+Palm Warbler,Setophaga palmarum,2025-05-14T22:37:53Z,14-May-2025,18:37:53,0.75,1
+Chipping Sparrow,Spizella passerina,2025-05-14T22:37:41Z,14-May-2025,18:37:41,0.56,1
+Chipping Sparrow,Spizella passerina,2025-05-14T22:35:14Z,14-May-2025,18:35:14,0.32,1
+Chipping Sparrow,Spizella passerina,2025-05-14T22:35:08Z,14-May-2025,18:35:08,0.62,1
+Chipping Sparrow,Spizella passerina,2025-05-14T22:34:58Z,14-May-2025,18:34:58,0.5,1
+Chipping Sparrow,Spizella passerina,2025-05-14T22:34:52Z,14-May-2025,18:34:52,0.45,1
+Palm Warbler,Setophaga palmarum,2025-05-14T22:34:45Z,14-May-2025,18:34:45,0.3,1
+Chipping Sparrow,Spizella passerina,2025-05-14T22:34:32Z,14-May-2025,18:34:32,0.46,1
+Chipping Sparrow,Spizella passerina,2025-05-14T22:33:08Z,14-May-2025,18:33:08,0.42,1
+Chipping Sparrow,Spizella passerina,2025-05-14T22:32:55Z,14-May-2025,18:32:55,0.7,1
+Chipping Sparrow,Spizella passerina,2025-05-14T22:32:49Z,14-May-2025,18:32:49,0.29,1
+Chipping Sparrow,Spizella passerina,2025-05-14T22:31:24Z,14-May-2025,18:31:24,0.31,1
+Chipping Sparrow,Spizella passerina,2025-05-14T22:27:11Z,14-May-2025,18:27:11,0.3,1
+Palm Warbler,Setophaga palmarum,2025-05-14T22:15:36Z,14-May-2025,18:15:36,0.26,1
+Chipping Sparrow,Spizella passerina,2025-05-14T22:12:16Z,14-May-2025,18:12:16,0.44,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T22:03:04Z,14-May-2025,18:03:04,0.8157,1
+White-breasted Nuthatch,Sitta carolinensis,2025-05-14T21:56:08Z,14-May-2025,17:56:08,0.93,1
+White-breasted Nuthatch,Sitta carolinensis,2025-05-14T21:55:58Z,14-May-2025,17:55:58,0.68,1
+White-breasted Nuthatch,Sitta carolinensis,2025-05-14T21:55:51Z,14-May-2025,17:55:51,0.71,1
+White-breasted Nuthatch,Sitta carolinensis,2025-05-14T21:55:45Z,14-May-2025,17:55:45,0.89,1
+White-breasted Nuthatch,Sitta carolinensis,2025-05-14T21:55:38Z,14-May-2025,17:55:38,0.85,1
+White-breasted Nuthatch,Sitta carolinensis,2025-05-14T21:55:31Z,14-May-2025,17:55:31,0.71,1
+White-breasted Nuthatch,Sitta carolinensis,2025-05-14T21:55:18Z,14-May-2025,17:55:18,0.63,1
+White-breasted Nuthatch,Sitta carolinensis,2025-05-14T21:55:11Z,14-May-2025,17:55:11,0.82,1
+American Robin,Turdus migratorius,2025-05-14T21:49:08Z,14-May-2025,17:49:08,0.7804,1
+American Crow,Corvus brachyrhynchos,2025-05-14T21:43:38Z,14-May-2025,17:43:38,0.7804,4
+American Crow,Corvus brachyrhynchos,2025-05-14T21:42:34Z,14-May-2025,17:42:34,0.9412,1
+American Crow,Corvus brachyrhynchos,2025-05-14T21:41:26Z,14-May-2025,17:41:26,0.9647,1
+Song Sparrow,Melospiza melodia,2025-05-14T21:39:10Z,14-May-2025,17:39:10,0.7804,1
+American Crow,Corvus brachyrhynchos,2025-05-14T21:35:58Z,14-May-2025,17:35:58,0.8,1
+White-breasted Nuthatch,Sitta carolinensis,2025-05-14T21:31:51Z,14-May-2025,17:31:51,0.9,1
+Blue Jay,Cyanocitta cristata,2025-05-14T21:31:10Z,14-May-2025,17:31:10,0.8745,1
+Blue Jay,Cyanocitta cristata,2025-05-14T21:29:04Z,14-May-2025,17:29:04,0.8157,6
+Blue Jay,Cyanocitta cristata,2025-05-14T21:28:20Z,14-May-2025,17:28:20,0.32,1
+Blue Jay,Cyanocitta cristata,2025-05-14T21:28:00Z,14-May-2025,17:28:00,0.7804,2
+Blue Jay,Cyanocitta cristata,2025-05-14T21:26:51Z,14-May-2025,17:26:51,0.29,1
+Wood Duck,Aix sponsa,2025-05-14T21:26:01Z,14-May-2025,17:26:01,0.29,1
+Blue Jay,Cyanocitta cristata,2025-05-14T21:25:54Z,14-May-2025,17:25:54,0.7804,1
+Wood Duck,Aix sponsa,2025-05-14T21:25:12Z,14-May-2025,17:25:12,0.84,1
+Song Sparrow,Melospiza melodia,2025-05-14T21:20:58Z,14-May-2025,17:20:58,0.8,1
+Veery,Catharus fuscescens,2025-05-14T21:01:34Z,14-May-2025,17:01:34,0.26,1
+Northern Mockingbird,Mimus polyglottos,2025-05-14T20:43:49Z,14-May-2025,16:43:49,0.9098,1
+American Crow,Corvus brachyrhynchos,2025-05-14T20:41:56Z,14-May-2025,16:41:56,0.8,1
+Palm Warbler,Setophaga palmarum,2025-05-14T20:15:58Z,14-May-2025,16:15:58,0.62,1
+Palm Warbler,Setophaga palmarum,2025-05-14T20:15:52Z,14-May-2025,16:15:52,0.56,1
+American Crow,Corvus brachyrhynchos,2025-05-14T20:01:40Z,14-May-2025,16:01:40,0.44,1
+American Crow,Corvus brachyrhynchos,2025-05-14T20:01:12Z,14-May-2025,16:01:12,0.34,1
+American Crow,Corvus brachyrhynchos,2025-05-14T20:00:59Z,14-May-2025,16:00:59,0.8863,1
+American Crow,Corvus brachyrhynchos,2025-05-14T19:59:36Z,14-May-2025,15:59:36,0.8157,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T19:55:01Z,14-May-2025,15:55:01,0.54,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T19:20:11Z,14-May-2025,15:20:11,0.46,1
+Northern Cardinal,Cardinalis cardinalis,2025-05-14T19:17:25Z,14-May-2025,15:17:25,0.27,1
+Northern Cardinal,Cardinalis cardinalis,2025-05-14T19:17:18Z,14-May-2025,15:17:18,0.35,1
+Northern Cardinal,Cardinalis cardinalis,2025-05-14T19:16:11Z,14-May-2025,15:16:11,0.8157,1
+Chipping Sparrow,Spizella passerina,2025-05-14T18:48:40Z,14-May-2025,14:48:40,0.63,1
+Swamp Sparrow,Melospiza georgiana,2025-05-14T18:33:17Z,14-May-2025,14:33:17,0.65,1
+Chestnut-sided Warbler,Setophaga pensylvanica,2025-05-14T18:28:29Z,14-May-2025,14:28:29,0.56,1
+Chestnut-sided Warbler,Setophaga pensylvanica,2025-05-14T18:28:16Z,14-May-2025,14:28:16,0.71,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T18:26:30Z,14-May-2025,14:26:30,0.42,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T18:26:20Z,14-May-2025,14:26:20,0.8157,1
+Veery,Catharus fuscescens,2025-05-14T18:24:53Z,14-May-2025,14:24:53,0.29,1
+Baltimore Oriole,Icterus galbula,2025-05-14T18:22:26Z,14-May-2025,14:22:26,0.87,1
+Baltimore Oriole,Icterus galbula,2025-05-14T18:22:13Z,14-May-2025,14:22:13,0.31,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T18:20:32Z,14-May-2025,14:20:32,0.84,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T18:19:37Z,14-May-2025,14:19:37,0.44,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T18:17:56Z,14-May-2025,14:17:56,0.92,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T18:17:04Z,14-May-2025,14:17:04,0.96,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T18:15:49Z,14-May-2025,14:15:49,0.94,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T18:14:50Z,14-May-2025,14:14:50,0.93,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T18:14:34Z,14-May-2025,14:14:34,0.91,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T18:14:08Z,14-May-2025,14:14:08,0.8,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T18:14:02Z,14-May-2025,14:14:02,0.7,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T18:13:46Z,14-May-2025,14:13:46,0.9,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T18:13:36Z,14-May-2025,14:13:36,0.91,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T18:13:27Z,14-May-2025,14:13:27,0.96,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T18:13:17Z,14-May-2025,14:13:17,0.89,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T18:12:47Z,14-May-2025,14:12:47,0.28,1
+Northern Cardinal,Cardinalis cardinalis,2025-05-14T18:09:47Z,14-May-2025,14:09:47,0.7804,2
+Northern Cardinal,Cardinalis cardinalis,2025-05-14T18:05:45Z,14-May-2025,14:05:45,0.9176,1
+Northern Cardinal,Cardinalis cardinalis,2025-05-14T18:04:26Z,14-May-2025,14:04:26,0.8,1
+Northern Cardinal,Cardinalis cardinalis,2025-05-14T17:57:30Z,14-May-2025,13:57:30,0.9529,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T17:55:03Z,14-May-2025,13:55:03,0.59,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T17:54:49Z,14-May-2025,13:54:49,0.37,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T17:54:37Z,14-May-2025,13:54:37,0.949,1
+Swamp Sparrow,Melospiza georgiana,2025-05-14T17:50:59Z,14-May-2025,13:50:59,0.3,1
+Chipping Sparrow,Spizella passerina,2025-05-14T17:15:40Z,14-May-2025,13:15:40,0.45,1
+Chipping Sparrow,Spizella passerina,2025-05-14T17:15:02Z,14-May-2025,13:15:02,0.41,1
+Swamp Sparrow,Melospiza georgiana,2025-05-14T17:14:45Z,14-May-2025,13:14:45,0.52,1
+Pileated Woodpecker,Dryocopus pileatus,2025-05-14T17:07:09Z,14-May-2025,13:07:09,0.32,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T17:03:40Z,14-May-2025,13:03:40,0.54,1
+Palm Warbler,Setophaga palmarum,2025-05-14T16:29:18Z,14-May-2025,12:29:18,0.33,1
+Palm Warbler,Setophaga palmarum,2025-05-14T16:28:56Z,14-May-2025,12:28:56,0.45,1
+Palm Warbler,Setophaga palmarum,2025-05-14T16:28:50Z,14-May-2025,12:28:50,0.71,1
+Chipping Sparrow,Spizella passerina,2025-05-14T16:28:34Z,14-May-2025,12:28:34,0.53,1
+Chipping Sparrow,Spizella passerina,2025-05-14T16:28:27Z,14-May-2025,12:28:27,0.38,1
+Chipping Sparrow,Spizella passerina,2025-05-14T16:28:21Z,14-May-2025,12:28:21,0.29,1
+Palm Warbler,Setophaga palmarum,2025-05-14T16:28:14Z,14-May-2025,12:28:14,0.34,1
+Palm Warbler,Setophaga palmarum,2025-05-14T16:28:08Z,14-May-2025,12:28:08,0.57,1
+Chipping Sparrow,Spizella passerina,2025-05-14T16:27:58Z,14-May-2025,12:27:58,0.44,1
+Palm Warbler,Setophaga palmarum,2025-05-14T16:27:51Z,14-May-2025,12:27:51,0.55,1
+Palm Warbler,Setophaga palmarum,2025-05-14T16:27:45Z,14-May-2025,12:27:45,0.27,1
+Chipping Sparrow,Spizella passerina,2025-05-14T16:26:32Z,14-May-2025,12:26:32,0.44,1
+Chipping Sparrow,Spizella passerina,2025-05-14T16:26:25Z,14-May-2025,12:26:25,0.46,1
+Black-capped Chickadee,Poecile atricapillus,2025-05-14T16:05:43Z,14-May-2025,12:05:43,0.8471,1
+Palm Warbler,Setophaga palmarum,2025-05-14T16:03:37Z,14-May-2025,12:03:37,0.4,1
+Palm Warbler,Setophaga palmarum,2025-05-14T15:56:13Z,14-May-2025,11:56:13,0.54,1
+Chipping Sparrow,Spizella passerina,2025-05-14T15:56:07Z,14-May-2025,11:56:07,0.28,1
+Eastern Bluebird,Sialia sialis,2025-05-14T15:52:35Z,14-May-2025,11:52:35,0.83,1
+Northern Cardinal,Cardinalis cardinalis,2025-05-14T15:50:43Z,14-May-2025,11:50:43,0.8745,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T15:40:55Z,14-May-2025,11:40:55,0.88,1
+Palm Warbler,Setophaga palmarum,2025-05-14T15:32:19Z,14-May-2025,11:32:19,0.42,1
+Blue Jay,Cyanocitta cristata,2025-05-14T15:16:32Z,14-May-2025,11:16:32,0.26,1
+Blue Jay,Cyanocitta cristata,2025-05-14T15:16:26Z,14-May-2025,11:16:26,0.8157,1
+American Goldfinch,Spinus tristis,2025-05-14T15:14:31Z,14-May-2025,11:14:31,0.9686,3
+American Goldfinch,Spinus tristis,2025-05-14T15:13:03Z,14-May-2025,11:13:03,0.8314,1
+Chestnut-sided Warbler,Setophaga pensylvanica,2025-05-14T15:10:28Z,14-May-2025,11:10:28,0.37,1
+Song Sparrow,Melospiza melodia,2025-05-14T14:59:47Z,14-May-2025,10:59:47,0.8863,1
+Northern Cardinal,Cardinalis cardinalis,2025-05-14T14:40:40Z,14-May-2025,10:40:40,0.8471,1
+American Crow,Corvus brachyrhynchos,2025-05-14T14:23:50Z,14-May-2025,10:23:50,0.898,1
+Wild Turkey,Meleagris gallopavo,2025-05-14T14:18:02Z,14-May-2025,10:18:02,0.29,1
+Spotted Sandpiper,Actitis macularius,2025-05-14T14:12:53Z,14-May-2025,10:12:53,0.41,1
+Blue Jay,Cyanocitta cristata,2025-05-14T14:11:11Z,14-May-2025,10:11:11,0.898,1
+American Goldfinch,Spinus tristis,2025-05-14T14:04:34Z,14-May-2025,10:04:34,0.7804,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T13:48:08Z,14-May-2025,09:48:08,0.6,1
+American Crow,Corvus brachyrhynchos,2025-05-14T13:45:00Z,14-May-2025,09:45:00,0.9176,1
+American Goldfinch,Spinus tristis,2025-05-14T13:31:45Z,14-May-2025,09:31:45,0.64,1
+American Goldfinch,Spinus tristis,2025-05-14T13:31:39Z,14-May-2025,09:31:39,0.7804,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T13:27:19Z,14-May-2025,09:27:19,0.43,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T13:27:10Z,14-May-2025,09:27:10,0.31,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T13:17:23Z,14-May-2025,09:17:23,0.48,1
+American Goldfinch,Spinus tristis,2025-05-14T13:12:09Z,14-May-2025,09:12:09,0.8627,1
+Philadelphia Vireo,Vireo philadelphicus,2025-05-14T12:38:00Z,14-May-2025,08:38:00,0.32,1
+Red-eyed Vireo,Vireo olivaceus,2025-05-14T12:37:32Z,14-May-2025,08:37:32,0.41,1
+Red-eyed Vireo,Vireo olivaceus,2025-05-14T12:37:26Z,14-May-2025,08:37:26,0.42,1
+Red-eyed Vireo,Vireo olivaceus,2025-05-14T12:37:19Z,14-May-2025,08:37:19,0.29,1
+Red-eyed Vireo,Vireo olivaceus,2025-05-14T12:37:12Z,14-May-2025,08:37:12,0.52,1
+Red-eyed Vireo,Vireo olivaceus,2025-05-14T12:37:06Z,14-May-2025,08:37:06,0.28,1
+Red-eyed Vireo,Vireo olivaceus,2025-05-14T12:36:42Z,14-May-2025,08:36:42,0.49,1
+Red-eyed Vireo,Vireo olivaceus,2025-05-14T12:36:23Z,14-May-2025,08:36:23,0.41,1
+Red-eyed Vireo,Vireo olivaceus,2025-05-14T12:34:31Z,14-May-2025,08:34:31,0.33,1
+American Crow,Corvus brachyrhynchos,2025-05-14T12:31:56Z,14-May-2025,08:31:56,0.8157,1
+Mallard,Anas platyrhynchos,2025-05-14T12:30:03Z,14-May-2025,08:30:03,0.72,1
+American Crow,Corvus brachyrhynchos,2025-05-14T12:28:35Z,14-May-2025,08:28:35,0.8863,1
+American Crow,Corvus brachyrhynchos,2025-05-14T12:26:00Z,14-May-2025,08:26:00,0.8157,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T12:25:27Z,14-May-2025,08:25:27,0.39,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T12:25:09Z,14-May-2025,08:25:09,0.34,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T12:24:33Z,14-May-2025,08:24:33,0.66,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T12:23:57Z,14-May-2025,08:23:57,0.69,1
+American Crow,Corvus brachyrhynchos,2025-05-14T12:23:50Z,14-May-2025,08:23:50,0.898,1
+American Goldfinch,Spinus tristis,2025-05-14T12:23:27Z,14-May-2025,08:23:27,0.898,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T12:22:54Z,14-May-2025,08:22:54,0.28,1
+American Crow,Corvus brachyrhynchos,2025-05-14T12:21:41Z,14-May-2025,08:21:41,0.8627,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T12:20:33Z,14-May-2025,08:20:33,0.4,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T12:20:14Z,14-May-2025,08:20:14,0.54,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T12:19:38Z,14-May-2025,08:19:38,0.8627,2
+Gray Catbird,Dumetella carolinensis,2025-05-14T12:17:59Z,14-May-2025,08:17:59,0.8627,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T12:17:36Z,14-May-2025,08:17:36,0.47,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T12:17:21Z,14-May-2025,08:17:21,0.37,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T12:16:45Z,14-May-2025,08:16:45,0.47,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T12:16:30Z,14-May-2025,08:16:30,0.49,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T12:15:58Z,14-May-2025,08:15:58,0.26,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T12:15:30Z,14-May-2025,08:15:30,0.31,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T12:15:24Z,14-May-2025,08:15:24,0.4,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T12:14:48Z,14-May-2025,08:14:48,0.4,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T12:13:58Z,14-May-2025,08:13:58,0.34,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T12:13:30Z,14-May-2025,08:13:30,0.41,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T12:12:55Z,14-May-2025,08:12:55,0.8745,1
+Blue Jay,Cyanocitta cristata,2025-05-14T12:11:26Z,14-May-2025,08:11:26,0.8627,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T12:10:57Z,14-May-2025,08:10:57,0.7804,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T12:09:21Z,14-May-2025,08:09:21,0.9412,3
+Gray Catbird,Dumetella carolinensis,2025-05-14T12:09:11Z,14-May-2025,08:09:11,0.38,1
+Veery,Catharus fuscescens,2025-05-14T12:08:10Z,14-May-2025,08:08:10,0.35,1
+Northern Cardinal,Cardinalis cardinalis,2025-05-14T12:07:57Z,14-May-2025,08:07:57,0.7804,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T12:06:39Z,14-May-2025,08:06:39,0.9176,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T12:05:35Z,14-May-2025,08:05:35,0.49,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T12:05:31Z,14-May-2025,08:05:31,0.9529,1
+Black-and-white Warbler,Mniotilta varia,2025-05-14T12:04:15Z,14-May-2025,08:04:15,0.27,1
+Black-and-white Warbler,Mniotilta varia,2025-05-14T12:03:19Z,14-May-2025,08:03:19,0.29,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T12:03:12Z,14-May-2025,08:03:12,0.43,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T12:02:56Z,14-May-2025,08:02:56,0.34,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T12:02:05Z,14-May-2025,08:02:05,0.28,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T12:00:28Z,14-May-2025,08:00:28,0.7804,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T11:59:52Z,14-May-2025,07:59:52,0.33,1
+Common Raven,Corvus corax,2025-05-14T11:59:03Z,14-May-2025,07:59:03,0.56,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T11:57:15Z,14-May-2025,07:57:15,0.26,1
+Blue Jay,Cyanocitta cristata,2025-05-14T11:56:49Z,14-May-2025,07:56:49,0.52,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T11:56:42Z,14-May-2025,07:56:42,0.44,1
+Blue Jay,Cyanocitta cristata,2025-05-14T11:56:00Z,14-May-2025,07:56:00,0.37,1
+Blue Jay,Cyanocitta cristata,2025-05-14T11:55:53Z,14-May-2025,07:55:53,0.61,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T11:55:31Z,14-May-2025,07:55:31,0.48,1
+American Crow,Corvus brachyrhynchos,2025-05-14T11:54:53Z,14-May-2025,07:54:53,0.8627,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T11:53:47Z,14-May-2025,07:53:47,0.57,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T11:53:31Z,14-May-2025,07:53:31,0.52,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T11:52:52Z,14-May-2025,07:52:52,0.29,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T11:52:17Z,14-May-2025,07:52:17,0.57,1
+Blue Jay,Cyanocitta cristata,2025-05-14T11:51:08Z,14-May-2025,07:51:08,0.4,1
+Blue Jay,Cyanocitta cristata,2025-05-14T11:51:01Z,14-May-2025,07:51:01,0.8157,2
+Ovenbird,Seiurus aurocapilla,2025-05-14T11:50:22Z,14-May-2025,07:50:22,0.44,1
+Blue Jay,Cyanocitta cristata,2025-05-14T11:50:13Z,14-May-2025,07:50:13,0.46,1
+Tufted Titmouse,Baeolophus bicolor,2025-05-14T11:50:09Z,14-May-2025,07:50:09,0.8314,1
+Blue Jay,Cyanocitta cristata,2025-05-14T11:49:56Z,14-May-2025,07:49:56,0.45,1
+Tufted Titmouse,Baeolophus bicolor,2025-05-14T11:49:25Z,14-May-2025,07:49:25,0.28,1
+Blue Jay,Cyanocitta cristata,2025-05-14T11:48:43Z,14-May-2025,07:48:43,0.9255,1
+Tufted Titmouse,Baeolophus bicolor,2025-05-14T11:48:30Z,14-May-2025,07:48:30,0.8,5
+Tufted Titmouse,Baeolophus bicolor,2025-05-14T11:47:14Z,14-May-2025,07:47:14,0.8157,6
+Tufted Titmouse,Baeolophus bicolor,2025-05-14T11:46:11Z,14-May-2025,07:46:11,0.8,7
+Tufted Titmouse,Baeolophus bicolor,2025-05-14T11:45:45Z,14-May-2025,07:45:45,0.35,1
+Tufted Titmouse,Baeolophus bicolor,2025-05-14T11:45:38Z,14-May-2025,07:45:38,0.53,1
+Tufted Titmouse,Baeolophus bicolor,2025-05-14T11:45:22Z,14-May-2025,07:45:22,0.5,1
+Tufted Titmouse,Baeolophus bicolor,2025-05-14T11:44:37Z,14-May-2025,07:44:37,0.8,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T11:44:33Z,14-May-2025,07:44:33,0.69,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T11:44:27Z,14-May-2025,07:44:27,0.68,1
+Tufted Titmouse,Baeolophus bicolor,2025-05-14T11:42:41Z,14-May-2025,07:42:41,0.7804,1
+Mourning Dove,Zenaida macroura,2025-05-14T11:41:58Z,14-May-2025,07:41:58,0.37,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T11:41:42Z,14-May-2025,07:41:42,0.35,1
+Mourning Dove,Zenaida macroura,2025-05-14T11:41:10Z,14-May-2025,07:41:10,0.41,1
+Common Grackle,Quiscalus quiscula,2025-05-14T11:40:41Z,14-May-2025,07:40:41,0.8,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T11:40:02Z,14-May-2025,07:40:02,0.56,1
+Tufted Titmouse,Baeolophus bicolor,2025-05-14T11:39:06Z,14-May-2025,07:39:06,0.43,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T11:38:11Z,14-May-2025,07:38:11,0.51,1
+Green-winged Teal,Anas crecca,2025-05-14T11:37:52Z,14-May-2025,07:37:52,0.28,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T11:37:43Z,14-May-2025,07:37:43,0.55,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T11:37:27Z,14-May-2025,07:37:27,0.38,1
+Blue Jay,Cyanocitta cristata,2025-05-14T11:36:24Z,14-May-2025,07:36:24,0.8314,1
+Blue Jay,Cyanocitta cristata,2025-05-14T11:34:03Z,14-May-2025,07:34:03,0.47,1
+Blue Jay,Cyanocitta cristata,2025-05-14T11:33:36Z,14-May-2025,07:33:36,0.52,1
+Blue Jay,Cyanocitta cristata,2025-05-14T11:32:54Z,14-May-2025,07:32:54,0.27,1
+Blue Jay,Cyanocitta cristata,2025-05-14T11:32:41Z,14-May-2025,07:32:41,0.48,1
+Blue Jay,Cyanocitta cristata,2025-05-14T11:32:28Z,14-May-2025,07:32:28,0.28,1
+Song Sparrow,Melospiza melodia,2025-05-14T11:30:27Z,14-May-2025,07:30:27,0.7804,1
+Song Sparrow,Melospiza melodia,2025-05-14T11:30:17Z,14-May-2025,07:30:17,0.29,1
+Blue Jay,Cyanocitta cristata,2025-05-14T11:28:38Z,14-May-2025,07:28:38,0.4,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T11:27:35Z,14-May-2025,07:27:35,0.27,1
+Blue Jay,Cyanocitta cristata,2025-05-14T11:26:20Z,14-May-2025,07:26:20,0.28,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T11:21:10Z,14-May-2025,07:21:10,0.43,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T11:20:37Z,14-May-2025,07:20:37,0.81,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T11:20:21Z,14-May-2025,07:20:21,0.4,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T11:20:11Z,14-May-2025,07:20:11,0.8314,1
+Blue Jay,Cyanocitta cristata,2025-05-14T11:18:32Z,14-May-2025,07:18:32,0.8157,1
+Blue Jay,Cyanocitta cristata,2025-05-14T11:16:56Z,14-May-2025,07:16:56,0.8,1
+Blue Jay,Cyanocitta cristata,2025-05-14T11:13:29Z,14-May-2025,07:13:29,0.8863,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T11:07:45Z,14-May-2025,07:07:45,0.34,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T11:07:26Z,14-May-2025,07:07:26,0.9,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T11:07:17Z,14-May-2025,07:07:17,0.56,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T11:07:07Z,14-May-2025,07:07:07,0.71,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T11:07:01Z,14-May-2025,07:07:01,0.77,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T11:06:54Z,14-May-2025,07:06:54,0.73,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T11:06:47Z,14-May-2025,07:06:47,0.7,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T11:06:38Z,14-May-2025,07:06:38,0.7,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T11:06:28Z,14-May-2025,07:06:28,0.95,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T11:06:19Z,14-May-2025,07:06:19,0.94,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T11:06:09Z,14-May-2025,07:06:09,0.75,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T11:06:03Z,14-May-2025,07:06:03,0.91,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T11:05:56Z,14-May-2025,07:05:56,0.9,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T11:05:49Z,14-May-2025,07:05:49,0.42,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T11:05:06Z,14-May-2025,07:05:06,0.6,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T11:04:57Z,14-May-2025,07:04:57,0.67,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T11:04:47Z,14-May-2025,07:04:47,0.84,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T11:04:34Z,14-May-2025,07:04:34,0.8,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T11:04:18Z,14-May-2025,07:04:18,0.7,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T11:04:01Z,14-May-2025,07:04:01,0.83,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T11:03:47Z,14-May-2025,07:03:47,0.39,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T11:03:35Z,14-May-2025,07:03:35,0.74,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T11:03:28Z,14-May-2025,07:03:28,0.31,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T11:03:15Z,14-May-2025,07:03:15,0.43,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T11:00:37Z,14-May-2025,07:00:37,0.36,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T10:59:56Z,14-May-2025,06:59:56,0.8471,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T10:58:41Z,14-May-2025,06:58:41,0.7804,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T10:55:21Z,14-May-2025,06:55:21,0.898,1
+Blue Jay,Cyanocitta cristata,2025-05-14T10:53:51Z,14-May-2025,06:53:51,0.48,1
+American Goldfinch,Spinus tristis,2025-05-14T10:53:42Z,14-May-2025,06:53:42,0.9333,1
+Blue Jay,Cyanocitta cristata,2025-05-14T10:53:38Z,14-May-2025,06:53:38,0.36,1
+Blue Jay,Cyanocitta cristata,2025-05-14T10:53:35Z,14-May-2025,06:53:35,0.9255,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T10:51:42Z,14-May-2025,06:51:42,0.9098,2
+Chestnut-sided Warbler,Setophaga pensylvanica,2025-05-14T10:50:32Z,14-May-2025,06:50:32,0.45,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T10:49:47Z,14-May-2025,06:49:47,0.8,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T10:49:27Z,14-May-2025,06:49:27,0.27,1
+Red-eyed Vireo,Vireo olivaceus,2025-05-14T10:47:36Z,14-May-2025,06:47:36,0.3,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T10:45:59Z,14-May-2025,06:45:59,0.88,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T10:45:52Z,14-May-2025,06:45:52,0.86,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T10:45:46Z,14-May-2025,06:45:46,0.77,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T10:45:39Z,14-May-2025,06:45:39,0.9,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T10:45:32Z,14-May-2025,06:45:32,0.97,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T10:45:25Z,14-May-2025,06:45:25,0.95,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T10:45:18Z,14-May-2025,06:45:18,0.95,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T10:45:12Z,14-May-2025,06:45:12,0.88,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T10:45:05Z,14-May-2025,06:45:05,0.84,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T10:43:51Z,14-May-2025,06:43:51,0.32,1
+Blue Jay,Cyanocitta cristata,2025-05-14T10:42:34Z,14-May-2025,06:42:34,0.61,1
+Red-breasted Nuthatch,Sitta canadensis,2025-05-14T10:42:27Z,14-May-2025,06:42:27,0.39,1
+Mourning Dove,Zenaida macroura,2025-05-14T10:41:14Z,14-May-2025,06:41:14,0.38,1
+Blue Jay,Cyanocitta cristata,2025-05-14T10:40:58Z,14-May-2025,06:40:58,0.898,2
+Ovenbird,Seiurus aurocapilla,2025-05-14T10:40:48Z,14-May-2025,06:40:48,0.32,1
+Blue Jay,Cyanocitta cristata,2025-05-14T10:40:04Z,14-May-2025,06:40:04,0.34,1
+Blue Jay,Cyanocitta cristata,2025-05-14T10:39:57Z,14-May-2025,06:39:57,0.34,1
+Blue Jay,Cyanocitta cristata,2025-05-14T10:39:48Z,14-May-2025,06:39:48,0.7804,4
+Blue Jay,Cyanocitta cristata,2025-05-14T10:39:38Z,14-May-2025,06:39:38,0.41,1
+Blue Jay,Cyanocitta cristata,2025-05-14T10:39:06Z,14-May-2025,06:39:06,0.39,1
+Blue Jay,Cyanocitta cristata,2025-05-14T10:38:46Z,14-May-2025,06:38:46,0.8627,2
+Blue Jay,Cyanocitta cristata,2025-05-14T10:35:59Z,14-May-2025,06:35:59,0.8314,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T10:35:33Z,14-May-2025,06:35:33,0.26,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T10:35:30Z,14-May-2025,06:35:30,0.8471,1
+Blue Jay,Cyanocitta cristata,2025-05-14T10:33:36Z,14-May-2025,06:33:36,0.67,1
+Blue Jay,Cyanocitta cristata,2025-05-14T10:33:26Z,14-May-2025,06:33:26,0.8157,1
+Blue Jay,Cyanocitta cristata,2025-05-14T10:33:19Z,14-May-2025,06:33:19,0.58,1
+Blue Jay,Cyanocitta cristata,2025-05-14T10:32:59Z,14-May-2025,06:32:59,0.29,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T10:32:24Z,14-May-2025,06:32:24,0.8863,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T10:31:19Z,14-May-2025,06:31:19,0.8471,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T10:29:55Z,14-May-2025,06:29:55,0.26,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T10:29:06Z,14-May-2025,06:29:06,0.37,1
+Blue Jay,Cyanocitta cristata,2025-05-14T10:25:12Z,14-May-2025,06:25:12,0.44,1
+Blue Jay,Cyanocitta cristata,2025-05-14T10:25:09Z,14-May-2025,06:25:09,0.7804,5
+Blue Jay,Cyanocitta cristata,2025-05-14T10:24:46Z,14-May-2025,06:24:46,0.47,1
+Blue Jay,Cyanocitta cristata,2025-05-14T10:24:40Z,14-May-2025,06:24:40,0.51,1
+Blue Jay,Cyanocitta cristata,2025-05-14T10:24:33Z,14-May-2025,06:24:33,0.31,1
+Blue Jay,Cyanocitta cristata,2025-05-14T10:24:20Z,14-May-2025,06:24:20,0.29,1
+Blue Jay,Cyanocitta cristata,2025-05-14T10:24:04Z,14-May-2025,06:24:04,0.8314,1
+Blue Jay,Cyanocitta cristata,2025-05-14T10:23:51Z,14-May-2025,06:23:51,0.3,1
+Blue Jay,Cyanocitta cristata,2025-05-14T10:22:37Z,14-May-2025,06:22:37,0.8471,11
+Blue Jay,Cyanocitta cristata,2025-05-14T10:22:33Z,14-May-2025,06:22:33,0.39,1
+Blue Jay,Cyanocitta cristata,2025-05-14T10:22:20Z,14-May-2025,06:22:20,0.72,1
+Blue Jay,Cyanocitta cristata,2025-05-14T10:22:04Z,14-May-2025,06:22:04,0.26,1
+Blue Jay,Cyanocitta cristata,2025-05-14T10:21:20Z,14-May-2025,06:21:20,0.34,1
+Blue Jay,Cyanocitta cristata,2025-05-14T10:21:10Z,14-May-2025,06:21:10,0.8,1
+Blue Jay,Cyanocitta cristata,2025-05-14T10:21:03Z,14-May-2025,06:21:03,0.33,1
+American Crow,Corvus brachyrhynchos,2025-05-14T10:17:11Z,14-May-2025,06:17:11,0.8157,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T10:16:13Z,14-May-2025,06:16:13,0.33,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T10:15:07Z,14-May-2025,06:15:07,0.26,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T10:12:55Z,14-May-2025,06:12:55,0.26,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T10:12:05Z,14-May-2025,06:12:05,0.3,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T10:11:49Z,14-May-2025,06:11:49,0.43,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T10:09:53Z,14-May-2025,06:09:53,0.38,1
+Pileated Woodpecker,Dryocopus pileatus,2025-05-14T10:08:52Z,14-May-2025,06:08:52,0.39,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T10:07:57Z,14-May-2025,06:07:57,0.43,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T10:07:20Z,14-May-2025,06:07:20,0.62,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T10:06:54Z,14-May-2025,06:06:54,0.41,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T10:06:02Z,14-May-2025,06:06:02,0.76,1
+Blue Jay,Cyanocitta cristata,2025-05-14T10:05:03Z,14-May-2025,06:05:03,0.7804,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T10:04:41Z,14-May-2025,06:04:41,0.32,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T10:04:25Z,14-May-2025,06:04:25,0.46,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T10:03:37Z,14-May-2025,06:03:37,0.52,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T10:03:20Z,14-May-2025,06:03:20,0.3,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T10:02:36Z,14-May-2025,06:02:36,0.69,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T10:02:16Z,14-May-2025,06:02:16,0.26,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T10:02:00Z,14-May-2025,06:02:00,0.31,1
+Blue Jay,Cyanocitta cristata,2025-05-14T10:01:02Z,14-May-2025,06:01:02,0.6,1
+Blue Jay,Cyanocitta cristata,2025-05-14T10:00:07Z,14-May-2025,06:00:07,0.9569,12
+Blue Jay,Cyanocitta cristata,2025-05-14T10:00:03Z,14-May-2025,06:00:03,0.26,1
+Blue Jay,Cyanocitta cristata,2025-05-14T09:59:54Z,14-May-2025,05:59:54,0.37,1
+Blue Jay,Cyanocitta cristata,2025-05-14T09:59:17Z,14-May-2025,05:59:17,0.27,1
+Blue Jay,Cyanocitta cristata,2025-05-14T09:59:01Z,14-May-2025,05:59:01,0.8,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T09:58:48Z,14-May-2025,05:58:48,0.8471,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T09:58:25Z,14-May-2025,05:58:25,0.27,1
+Black-backed Woodpecker,Picoides arcticus,2025-05-14T09:57:40Z,14-May-2025,05:57:40,0.33,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T09:55:12Z,14-May-2025,05:55:12,0.32,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T09:54:54Z,14-May-2025,05:54:54,0.26,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T09:54:01Z,14-May-2025,05:54:01,0.3,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T09:53:32Z,14-May-2025,05:53:32,0.42,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T09:53:00Z,14-May-2025,05:53:00,0.62,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T09:52:54Z,14-May-2025,05:52:54,0.26,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T09:52:47Z,14-May-2025,05:52:47,0.5,1
+Great Crested Flycatcher,Myiarchus crinitus,2025-05-14T09:52:41Z,14-May-2025,05:52:41,0.57,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T09:50:01Z,14-May-2025,05:50:01,0.35,1
+Palm Warbler,Setophaga palmarum,2025-05-14T09:49:38Z,14-May-2025,05:49:38,0.51,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T09:49:25Z,14-May-2025,05:49:25,0.49,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T09:48:54Z,14-May-2025,05:48:54,0.28,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T09:48:37Z,14-May-2025,05:48:37,0.32,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T09:48:21Z,14-May-2025,05:48:21,0.64,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T09:47:47Z,14-May-2025,05:47:47,0.73,1
+Swamp Sparrow,Melospiza georgiana,2025-05-14T09:47:31Z,14-May-2025,05:47:31,0.5,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T09:45:43Z,14-May-2025,05:45:43,0.4,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T09:44:35Z,14-May-2025,05:44:35,0.36,1
+Northern Cardinal,Cardinalis cardinalis,2025-05-14T09:44:32Z,14-May-2025,05:44:32,0.7804,3
+Blue Jay,Cyanocitta cristata,2025-05-14T09:44:25Z,14-May-2025,05:44:25,0.8,1
+Blue Jay,Cyanocitta cristata,2025-05-14T09:44:15Z,14-May-2025,05:44:15,0.31,1
+Red-shouldered Hawk,Buteo lineatus,2025-05-14T09:44:09Z,14-May-2025,05:44:09,0.26,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T09:44:02Z,14-May-2025,05:44:02,0.4,1
+Northern Cardinal,Cardinalis cardinalis,2025-05-14T09:43:26Z,14-May-2025,05:43:26,0.8,2
+Blue Jay,Cyanocitta cristata,2025-05-14T09:42:53Z,14-May-2025,05:42:53,0.59,1
+Blue Jay,Cyanocitta cristata,2025-05-14T09:42:47Z,14-May-2025,05:42:47,0.34,1
+Blue Jay,Cyanocitta cristata,2025-05-14T09:42:43Z,14-May-2025,05:42:43,0.8314,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T09:42:18Z,14-May-2025,05:42:18,0.4,1
+Northern Cardinal,Cardinalis cardinalis,2025-05-14T09:41:29Z,14-May-2025,05:41:29,0.8627,2
+Ovenbird,Seiurus aurocapilla,2025-05-14T09:41:03Z,14-May-2025,05:41:03,0.46,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T09:40:33Z,14-May-2025,05:40:33,0.28,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T09:40:30Z,14-May-2025,05:40:30,0.8745,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T09:40:02Z,14-May-2025,05:40:02,0.36,1
+Northern Cardinal,Cardinalis cardinalis,2025-05-14T09:39:46Z,14-May-2025,05:39:46,0.7804,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T09:39:13Z,14-May-2025,05:39:13,0.27,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T09:38:18Z,14-May-2025,05:38:18,0.38,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T09:37:49Z,14-May-2025,05:37:49,0.62,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T09:36:44Z,14-May-2025,05:36:44,0.3,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T09:35:42Z,14-May-2025,05:35:42,0.27,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:34:34Z,14-May-2025,05:34:34,0.35,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:34:21Z,14-May-2025,05:34:21,0.45,1
+Blue Jay,Cyanocitta cristata,2025-05-14T09:34:18Z,14-May-2025,05:34:18,0.8157,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:34:14Z,14-May-2025,05:34:14,0.56,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:33:51Z,14-May-2025,05:33:51,0.35,1
+American Crow,Corvus brachyrhynchos,2025-05-14T09:33:29Z,14-May-2025,05:33:29,0.8,2
+Gray Catbird,Dumetella carolinensis,2025-05-14T09:32:56Z,14-May-2025,05:32:56,0.8,1
+American Crow,Corvus brachyrhynchos,2025-05-14T09:32:27Z,14-May-2025,05:32:27,0.8,4
+American Crow,Corvus brachyrhynchos,2025-05-14T09:32:23Z,14-May-2025,05:32:23,0.3,1
+American Crow,Corvus brachyrhynchos,2025-05-14T09:32:09Z,14-May-2025,05:32:09,0.37,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T09:31:41Z,14-May-2025,05:31:41,0.59,1
+American Crow,Corvus brachyrhynchos,2025-05-14T09:31:23Z,14-May-2025,05:31:23,0.9255,3
+Ovenbird,Seiurus aurocapilla,2025-05-14T09:30:40Z,14-May-2025,05:30:40,0.52,1
+American Crow,Corvus brachyrhynchos,2025-05-14T09:30:21Z,14-May-2025,05:30:21,0.8471,2
+Ovenbird,Seiurus aurocapilla,2025-05-14T09:29:50Z,14-May-2025,05:29:50,0.51,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T09:29:36Z,14-May-2025,05:29:36,0.43,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T09:29:21Z,14-May-2025,05:29:21,0.54,1
+Black-billed Cuckoo,Coccyzus erythropthalmus,2025-05-14T09:29:06Z,14-May-2025,05:29:06,0.3,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T09:28:17Z,14-May-2025,05:28:17,0.37,1
+American Crow,Corvus brachyrhynchos,2025-05-14T09:27:55Z,14-May-2025,05:27:55,0.9098,2
+Ovenbird,Seiurus aurocapilla,2025-05-14T09:27:34Z,14-May-2025,05:27:34,0.28,1
+American Crow,Corvus brachyrhynchos,2025-05-14T09:26:32Z,14-May-2025,05:26:32,0.9176,3
+Blue Jay,Cyanocitta cristata,2025-05-14T09:25:47Z,14-May-2025,05:25:47,0.8745,6
+Blue Jay,Cyanocitta cristata,2025-05-14T09:25:21Z,14-May-2025,05:25:21,0.38,1
+American Crow,Corvus brachyrhynchos,2025-05-14T09:25:17Z,14-May-2025,05:25:17,0.8745,1
+American Crow,Corvus brachyrhynchos,2025-05-14T09:24:53Z,14-May-2025,05:24:53,0.57,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T09:24:41Z,14-May-2025,05:24:41,0.8,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T09:24:06Z,14-May-2025,05:24:06,0.4,1
+Blue Jay,Cyanocitta cristata,2025-05-14T09:23:48Z,14-May-2025,05:23:48,0.34,1
+Blue Jay,Cyanocitta cristata,2025-05-14T09:23:41Z,14-May-2025,05:23:41,0.31,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T09:23:17Z,14-May-2025,05:23:17,0.28,1
+Blue Jay,Cyanocitta cristata,2025-05-14T09:23:13Z,14-May-2025,05:23:13,0.9176,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T09:22:34Z,14-May-2025,05:22:34,0.898,2
+Chipping Sparrow,Spizella passerina,2025-05-14T09:22:21Z,14-May-2025,05:22:21,0.44,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T09:22:08Z,14-May-2025,05:22:08,0.54,1
+American Crow,Corvus brachyrhynchos,2025-05-14T09:21:42Z,14-May-2025,05:21:42,0.8471,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T09:21:26Z,14-May-2025,05:21:26,0.8314,1
+Northern Rough-winged Swallow,Stelgidopteryx serripennis,2025-05-14T09:19:02Z,14-May-2025,05:19:02,0.39,1
+Ovenbird,Seiurus aurocapilla,2025-05-14T09:18:05Z,14-May-2025,05:18:05,0.32,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:17:55Z,14-May-2025,05:17:55,0.53,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T09:17:29Z,14-May-2025,05:17:29,0.38,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T09:17:22Z,14-May-2025,05:17:22,0.62,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:16:34Z,14-May-2025,05:16:34,0.4,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T09:16:04Z,14-May-2025,05:16:04,0.52,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T09:15:16Z,14-May-2025,05:15:16,0.31,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:14:50Z,14-May-2025,05:14:50,0.61,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T09:14:14Z,14-May-2025,05:14:14,0.85,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:14:01Z,14-May-2025,05:14:01,0.33,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:13:54Z,14-May-2025,05:13:54,0.48,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:13:47Z,14-May-2025,05:13:47,0.53,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:13:41Z,14-May-2025,05:13:41,0.64,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:12:46Z,14-May-2025,05:12:46,0.38,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:12:17Z,14-May-2025,05:12:17,0.48,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:11:45Z,14-May-2025,05:11:45,0.36,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:11:38Z,14-May-2025,05:11:38,0.36,1
+American Goldfinch,Spinus tristis,2025-05-14T09:11:22Z,14-May-2025,05:11:22,0.8314,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:10:57Z,14-May-2025,05:10:57,0.46,1
+Black-throated Blue Warbler,Setophaga caerulescens,2025-05-14T09:10:51Z,14-May-2025,05:10:51,0.53,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:10:44Z,14-May-2025,05:10:44,0.7,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:10:38Z,14-May-2025,05:10:38,0.29,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:10:28Z,14-May-2025,05:10:28,0.34,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:10:09Z,14-May-2025,05:10:09,0.56,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:10:02Z,14-May-2025,05:10:02,0.38,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:09:49Z,14-May-2025,05:09:49,0.61,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:09:36Z,14-May-2025,05:09:36,0.53,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:09:30Z,14-May-2025,05:09:30,0.72,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:09:23Z,14-May-2025,05:09:23,0.48,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:09:17Z,14-May-2025,05:09:17,0.6,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:09:10Z,14-May-2025,05:09:10,0.48,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:09:03Z,14-May-2025,05:09:03,0.33,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:08:50Z,14-May-2025,05:08:50,0.4,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:08:44Z,14-May-2025,05:08:44,0.28,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:08:37Z,14-May-2025,05:08:37,0.6,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:08:24Z,14-May-2025,05:08:24,0.36,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:08:17Z,14-May-2025,05:08:17,0.46,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:08:04Z,14-May-2025,05:08:04,0.58,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:07:51Z,14-May-2025,05:07:51,0.41,1
+Black-throated Blue Warbler,Setophaga caerulescens,2025-05-14T09:07:45Z,14-May-2025,05:07:45,0.31,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:07:32Z,14-May-2025,05:07:32,0.52,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:07:19Z,14-May-2025,05:07:19,0.29,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:07:06Z,14-May-2025,05:07:06,0.49,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:07:00Z,14-May-2025,05:07:00,0.43,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:06:46Z,14-May-2025,05:06:46,0.61,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:06:33Z,14-May-2025,05:06:33,0.38,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:06:20Z,14-May-2025,05:06:20,0.32,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:06:06Z,14-May-2025,05:06:06,0.58,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:05:57Z,14-May-2025,05:05:57,0.67,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:05:51Z,14-May-2025,05:05:51,0.69,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:05:38Z,14-May-2025,05:05:38,0.32,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T09:05:28Z,14-May-2025,05:05:28,0.67,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:05:15Z,14-May-2025,05:05:15,0.39,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:05:08Z,14-May-2025,05:05:08,0.27,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:04:49Z,14-May-2025,05:04:49,0.52,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:04:29Z,14-May-2025,05:04:29,0.33,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:03:43Z,14-May-2025,05:03:43,0.28,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:03:24Z,14-May-2025,05:03:24,0.29,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:03:17Z,14-May-2025,05:03:17,0.26,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:02:57Z,14-May-2025,05:02:57,0.37,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:02:51Z,14-May-2025,05:02:51,0.29,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:02:44Z,14-May-2025,05:02:44,0.56,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:02:11Z,14-May-2025,05:02:11,0.38,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:01:58Z,14-May-2025,05:01:58,0.35,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:01:51Z,14-May-2025,05:01:51,0.43,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:01:45Z,14-May-2025,05:01:45,0.44,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:01:32Z,14-May-2025,05:01:32,0.41,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:01:25Z,14-May-2025,05:01:25,0.38,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:01:19Z,14-May-2025,05:01:19,0.27,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:01:12Z,14-May-2025,05:01:12,0.82,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:01:05Z,14-May-2025,05:01:05,0.35,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:00:46Z,14-May-2025,05:00:46,0.32,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:00:33Z,14-May-2025,05:00:33,0.32,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T09:00:00Z,14-May-2025,05:00:00,0.55,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:59:53Z,14-May-2025,04:59:53,0.52,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:59:47Z,14-May-2025,04:59:47,0.7,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:59:40Z,14-May-2025,04:59:40,0.48,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:59:33Z,14-May-2025,04:59:33,0.62,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:59:27Z,14-May-2025,04:59:27,0.32,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:59:20Z,14-May-2025,04:59:20,0.38,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:59:14Z,14-May-2025,04:59:14,0.4,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:59:01Z,14-May-2025,04:59:01,0.53,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:58:54Z,14-May-2025,04:58:54,0.43,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:58:41Z,14-May-2025,04:58:41,0.27,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:58:28Z,14-May-2025,04:58:28,0.56,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:58:22Z,14-May-2025,04:58:22,0.35,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:58:15Z,14-May-2025,04:58:15,0.38,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:58:09Z,14-May-2025,04:58:09,0.5,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:58:02Z,14-May-2025,04:58:02,0.47,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:57:50Z,14-May-2025,04:57:50,0.28,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:57:43Z,14-May-2025,04:57:43,0.26,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:56:50Z,14-May-2025,04:56:50,0.29,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:56:43Z,14-May-2025,04:56:43,0.52,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:56:36Z,14-May-2025,04:56:36,0.26,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:56:30Z,14-May-2025,04:56:30,0.67,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:56:23Z,14-May-2025,04:56:23,0.42,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:56:17Z,14-May-2025,04:56:17,0.49,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:56:04Z,14-May-2025,04:56:04,0.46,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:55:57Z,14-May-2025,04:55:57,0.43,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:55:32Z,14-May-2025,04:55:32,0.49,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:55:18Z,14-May-2025,04:55:18,0.68,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:55:12Z,14-May-2025,04:55:12,0.83,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:55:05Z,14-May-2025,04:55:05,0.44,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:54:59Z,14-May-2025,04:54:59,0.72,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:54:46Z,14-May-2025,04:54:46,0.49,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:54:39Z,14-May-2025,04:54:39,0.56,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:54:00Z,14-May-2025,04:54:00,0.49,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:53:39Z,14-May-2025,04:53:39,0.28,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:53:26Z,14-May-2025,04:53:26,0.4,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:53:13Z,14-May-2025,04:53:13,0.26,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:52:46Z,14-May-2025,04:52:46,0.46,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:52:40Z,14-May-2025,04:52:40,0.46,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:52:19Z,14-May-2025,04:52:19,0.29,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:52:06Z,14-May-2025,04:52:06,0.43,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:52:00Z,14-May-2025,04:52:00,0.35,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:51:47Z,14-May-2025,04:51:47,0.26,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T08:50:51Z,14-May-2025,04:50:51,0.8745,1
+Blue-gray Gnatcatcher,Polioptila caerulea,2025-05-14T08:50:48Z,14-May-2025,04:50:48,0.3,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:50:35Z,14-May-2025,04:50:35,0.29,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:50:28Z,14-May-2025,04:50:28,0.48,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:50:22Z,14-May-2025,04:50:22,0.28,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:50:15Z,14-May-2025,04:50:15,0.68,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:50:02Z,14-May-2025,04:50:02,0.47,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:49:49Z,14-May-2025,04:49:49,0.42,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:49:42Z,14-May-2025,04:49:42,0.26,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:49:22Z,14-May-2025,04:49:22,0.54,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:49:15Z,14-May-2025,04:49:15,0.31,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:49:08Z,14-May-2025,04:49:08,0.39,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:49:02Z,14-May-2025,04:49:02,0.37,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:48:55Z,14-May-2025,04:48:55,0.35,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:48:49Z,14-May-2025,04:48:49,0.26,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:48:29Z,14-May-2025,04:48:29,0.43,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:48:09Z,14-May-2025,04:48:09,0.28,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:47:53Z,14-May-2025,04:47:53,0.26,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:46:54Z,14-May-2025,04:46:54,0.26,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:46:35Z,14-May-2025,04:46:35,0.48,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:46:22Z,14-May-2025,04:46:22,0.54,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:46:02Z,14-May-2025,04:46:02,0.37,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:45:56Z,14-May-2025,04:45:56,0.31,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:44:10Z,14-May-2025,04:44:10,0.33,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:43:57Z,14-May-2025,04:43:57,0.26,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:43:50Z,14-May-2025,04:43:50,0.44,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:43:44Z,14-May-2025,04:43:44,0.29,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:42:58Z,14-May-2025,04:42:58,0.42,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:42:51Z,14-May-2025,04:42:51,0.65,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:42:44Z,14-May-2025,04:42:44,0.36,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:42:18Z,14-May-2025,04:42:18,0.62,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:42:11Z,14-May-2025,04:42:11,0.32,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:41:51Z,14-May-2025,04:41:51,0.31,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:41:38Z,14-May-2025,04:41:38,0.4,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:41:32Z,14-May-2025,04:41:32,0.27,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:41:19Z,14-May-2025,04:41:19,0.37,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:41:12Z,14-May-2025,04:41:12,0.43,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:40:53Z,14-May-2025,04:40:53,0.37,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:40:40Z,14-May-2025,04:40:40,0.38,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:40:20Z,14-May-2025,04:40:20,0.51,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:40:07Z,14-May-2025,04:40:07,0.3,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:39:48Z,14-May-2025,04:39:48,0.67,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:39:29Z,14-May-2025,04:39:29,0.38,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:39:22Z,14-May-2025,04:39:22,0.28,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:38:43Z,14-May-2025,04:38:43,0.73,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:38:30Z,14-May-2025,04:38:30,0.38,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:38:24Z,14-May-2025,04:38:24,0.31,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:38:17Z,14-May-2025,04:38:17,0.37,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:38:11Z,14-May-2025,04:38:11,0.32,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:38:04Z,14-May-2025,04:38:04,0.43,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:37:58Z,14-May-2025,04:37:58,0.3,1
+American Robin,Turdus migratorius,2025-05-14T08:37:45Z,14-May-2025,04:37:45,0.4,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:37:38Z,14-May-2025,04:37:38,0.33,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:37:32Z,14-May-2025,04:37:32,0.35,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T08:36:55Z,14-May-2025,04:36:55,0.8745,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:36:09Z,14-May-2025,04:36:09,0.63,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:36:03Z,14-May-2025,04:36:03,0.26,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:35:47Z,14-May-2025,04:35:47,0.32,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:35:27Z,14-May-2025,04:35:27,0.27,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:35:20Z,14-May-2025,04:35:20,0.33,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:35:14Z,14-May-2025,04:35:14,0.39,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:35:07Z,14-May-2025,04:35:07,0.4,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:34:55Z,14-May-2025,04:34:55,0.36,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:34:48Z,14-May-2025,04:34:48,0.54,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:34:21Z,14-May-2025,04:34:21,0.31,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:34:14Z,14-May-2025,04:34:14,0.46,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:34:08Z,14-May-2025,04:34:08,0.36,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:33:55Z,14-May-2025,04:33:55,0.33,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:33:42Z,14-May-2025,04:33:42,0.55,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:33:35Z,14-May-2025,04:33:35,0.45,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:33:29Z,14-May-2025,04:33:29,0.49,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:32:56Z,14-May-2025,04:32:56,0.53,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:31:28Z,14-May-2025,04:31:28,0.43,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:31:15Z,14-May-2025,04:31:15,0.38,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:31:09Z,14-May-2025,04:31:09,0.44,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T08:30:33Z,14-May-2025,04:30:33,0.36,1
+Northern Rough-winged Swallow,Stelgidopteryx serripennis,2025-05-14T08:26:09Z,14-May-2025,04:26:09,0.32,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:25:56Z,14-May-2025,04:25:56,0.31,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:25:49Z,14-May-2025,04:25:49,0.35,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:25:10Z,14-May-2025,04:25:10,0.29,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:24:57Z,14-May-2025,04:24:57,0.63,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:24:31Z,14-May-2025,04:24:31,0.54,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:24:19Z,14-May-2025,04:24:19,0.31,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:24:12Z,14-May-2025,04:24:12,0.64,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:22:42Z,14-May-2025,04:22:42,0.42,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:22:16Z,14-May-2025,04:22:16,0.33,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:22:10Z,14-May-2025,04:22:10,0.46,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:22:03Z,14-May-2025,04:22:03,0.56,1
+American Woodcock,Scolopax minor,2025-05-14T08:21:47Z,14-May-2025,04:21:47,0.45,1
+American Woodcock,Scolopax minor,2025-05-14T08:21:25Z,14-May-2025,04:21:25,0.43,1
+American Robin,Turdus migratorius,2025-05-14T08:21:09Z,14-May-2025,04:21:09,0.7804,1
+American Woodcock,Scolopax minor,2025-05-14T08:20:15Z,14-May-2025,04:20:15,0.61,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:20:02Z,14-May-2025,04:20:02,0.29,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:19:15Z,14-May-2025,04:19:15,0.65,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:19:08Z,14-May-2025,04:19:08,0.74,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:19:02Z,14-May-2025,04:19:02,0.34,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:18:49Z,14-May-2025,04:18:49,0.38,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:18:42Z,14-May-2025,04:18:42,0.28,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:17:34Z,14-May-2025,04:17:34,0.37,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:17:21Z,14-May-2025,04:17:21,0.27,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:17:15Z,14-May-2025,04:17:15,0.62,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:17:08Z,14-May-2025,04:17:08,0.6,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:16:55Z,14-May-2025,04:16:55,0.6,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:16:48Z,14-May-2025,04:16:48,0.43,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:16:29Z,14-May-2025,04:16:29,0.55,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:16:16Z,14-May-2025,04:16:16,0.53,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:15:27Z,14-May-2025,04:15:27,0.45,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:15:20Z,14-May-2025,04:15:20,0.29,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:15:13Z,14-May-2025,04:15:13,0.57,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:15:07Z,14-May-2025,04:15:07,0.53,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:15:00Z,14-May-2025,04:15:00,0.27,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:14:54Z,14-May-2025,04:14:54,0.26,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:14:47Z,14-May-2025,04:14:47,0.33,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:14:41Z,14-May-2025,04:14:41,0.86,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:14:28Z,14-May-2025,04:14:28,0.68,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:13:56Z,14-May-2025,04:13:56,0.76,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:13:49Z,14-May-2025,04:13:49,0.51,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:13:43Z,14-May-2025,04:13:43,0.34,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:13:36Z,14-May-2025,04:13:36,0.44,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:13:30Z,14-May-2025,04:13:30,0.63,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:12:51Z,14-May-2025,04:12:51,0.48,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:09:16Z,14-May-2025,04:09:16,0.35,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:09:03Z,14-May-2025,04:09:03,0.37,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:08:50Z,14-May-2025,04:08:50,0.31,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:08:43Z,14-May-2025,04:08:43,0.82,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:05:00Z,14-May-2025,04:05:00,0.38,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:02:44Z,14-May-2025,04:02:44,0.29,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:02:37Z,14-May-2025,04:02:37,0.39,1
+Tree Swallow,Tachycineta bicolor,2025-05-14T08:02:18Z,14-May-2025,04:02:18,0.54,1
+American Woodcock,Scolopax minor,2025-05-14T07:55:18Z,14-May-2025,03:55:18,0.57,1
+American Woodcock,Scolopax minor,2025-05-14T07:55:05Z,14-May-2025,03:55:05,0.45,1
+Wild Turkey,Meleagris gallopavo,2025-05-14T07:14:10Z,14-May-2025,03:14:10,0.73,1
+Northern Cardinal,Cardinalis cardinalis,2025-05-14T06:16:37Z,14-May-2025,02:16:37,0.8471,1
+Song Sparrow,Melospiza melodia,2025-05-14T01:15:47Z,13-May-2025,21:15:47,0.7804,1
+Winter Wren,Troglodytes hiemalis,2025-05-14T00:52:26Z,13-May-2025,20:52:26,0.31,1
+American Woodcock,Scolopax minor,2025-05-14T00:37:47Z,13-May-2025,20:37:47,0.88,1
+American Woodcock,Scolopax minor,2025-05-14T00:35:14Z,13-May-2025,20:35:14,0.78,1
+American Woodcock,Scolopax minor,2025-05-14T00:32:17Z,13-May-2025,20:32:17,0.58,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:16:38Z,13-May-2025,20:16:38,0.4,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:16:31Z,13-May-2025,20:16:31,0.98,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:16:24Z,13-May-2025,20:16:24,0.96,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:16:18Z,13-May-2025,20:16:18,0.95,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:16:11Z,13-May-2025,20:16:11,0.96,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:16:04Z,13-May-2025,20:16:04,0.98,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:15:58Z,13-May-2025,20:15:58,0.96,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:15:51Z,13-May-2025,20:15:51,0.96,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:15:44Z,13-May-2025,20:15:44,0.99,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:15:37Z,13-May-2025,20:15:37,0.99,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:15:30Z,13-May-2025,20:15:30,0.91,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:15:23Z,13-May-2025,20:15:23,0.99,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:15:16Z,13-May-2025,20:15:16,0.99,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:15:09Z,13-May-2025,20:15:09,0.98,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:15:02Z,13-May-2025,20:15:02,0.97,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:14:55Z,13-May-2025,20:14:55,0.92,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:14:48Z,13-May-2025,20:14:48,0.95,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:14:41Z,13-May-2025,20:14:41,0.95,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:14:35Z,13-May-2025,20:14:35,0.98,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:14:28Z,13-May-2025,20:14:28,0.97,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:14:21Z,13-May-2025,20:14:21,0.98,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:14:15Z,13-May-2025,20:14:15,0.96,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:14:08Z,13-May-2025,20:14:08,0.96,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:14:01Z,13-May-2025,20:14:01,0.98,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:13:53Z,13-May-2025,20:13:53,0.97,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:13:46Z,13-May-2025,20:13:46,0.97,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:13:39Z,13-May-2025,20:13:39,0.98,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:13:32Z,13-May-2025,20:13:32,0.97,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:13:26Z,13-May-2025,20:13:26,0.97,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:13:19Z,13-May-2025,20:13:19,0.92,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:13:12Z,13-May-2025,20:13:12,0.97,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:13:06Z,13-May-2025,20:13:06,0.96,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:13:00Z,13-May-2025,20:13:00,0.93,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:12:53Z,13-May-2025,20:12:53,0.98,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:12:47Z,13-May-2025,20:12:47,0.99,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:12:40Z,13-May-2025,20:12:40,0.87,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:12:33Z,13-May-2025,20:12:33,0.94,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:12:26Z,13-May-2025,20:12:26,0.96,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:12:19Z,13-May-2025,20:12:19,0.93,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:12:13Z,13-May-2025,20:12:13,0.96,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:12:06Z,13-May-2025,20:12:06,0.97,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:12:00Z,13-May-2025,20:12:00,0.97,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:11:53Z,13-May-2025,20:11:53,0.95,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:11:40Z,13-May-2025,20:11:40,0.94,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:11:33Z,13-May-2025,20:11:33,0.93,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:11:27Z,13-May-2025,20:11:27,0.98,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:11:20Z,13-May-2025,20:11:20,0.92,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:11:14Z,13-May-2025,20:11:14,0.94,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:11:06Z,13-May-2025,20:11:06,0.96,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:11:00Z,13-May-2025,20:11:00,0.95,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:10:53Z,13-May-2025,20:10:53,0.95,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:10:36Z,13-May-2025,20:10:36,0.92,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:10:30Z,13-May-2025,20:10:30,0.95,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:10:23Z,13-May-2025,20:10:23,0.96,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:10:17Z,13-May-2025,20:10:17,0.95,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:10:10Z,13-May-2025,20:10:10,0.94,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:10:03Z,13-May-2025,20:10:03,0.89,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:09:57Z,13-May-2025,20:09:57,0.98,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:09:50Z,13-May-2025,20:09:50,0.96,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:09:43Z,13-May-2025,20:09:43,0.88,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:09:36Z,13-May-2025,20:09:36,0.97,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:09:30Z,13-May-2025,20:09:30,0.8,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:09:23Z,13-May-2025,20:09:23,0.89,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:09:17Z,13-May-2025,20:09:17,0.92,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:09:10Z,13-May-2025,20:09:10,0.97,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:09:04Z,13-May-2025,20:09:04,0.97,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:08:58Z,13-May-2025,20:08:58,0.97,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:08:51Z,13-May-2025,20:08:51,0.97,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:08:45Z,13-May-2025,20:08:45,0.65,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:08:38Z,13-May-2025,20:08:38,0.88,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:08:32Z,13-May-2025,20:08:32,0.54,1
+Black-backed Woodpecker,Picoides arcticus,2025-05-14T00:08:26Z,13-May-2025,20:08:26,0.9,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:08:19Z,13-May-2025,20:08:19,0.96,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:08:12Z,13-May-2025,20:08:12,0.94,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:08:06Z,13-May-2025,20:08:06,0.96,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:07:59Z,13-May-2025,20:07:59,0.92,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:07:53Z,13-May-2025,20:07:53,0.91,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:07:46Z,13-May-2025,20:07:46,0.97,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:07:33Z,13-May-2025,20:07:33,0.81,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:07:26Z,13-May-2025,20:07:26,0.89,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:07:12Z,13-May-2025,20:07:12,0.88,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:07:05Z,13-May-2025,20:07:05,0.96,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:06:59Z,13-May-2025,20:06:59,0.44,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:06:43Z,13-May-2025,20:06:43,0.98,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:06:36Z,13-May-2025,20:06:36,0.97,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:06:30Z,13-May-2025,20:06:30,0.94,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:06:23Z,13-May-2025,20:06:23,0.95,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:06:16Z,13-May-2025,20:06:16,0.97,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:06:09Z,13-May-2025,20:06:09,0.96,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:06:03Z,13-May-2025,20:06:03,0.9,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:05:56Z,13-May-2025,20:05:56,0.95,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:05:50Z,13-May-2025,20:05:50,0.97,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:05:42Z,13-May-2025,20:05:42,0.95,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:05:36Z,13-May-2025,20:05:36,0.93,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:05:30Z,13-May-2025,20:05:30,0.96,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:05:23Z,13-May-2025,20:05:23,0.91,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:05:16Z,13-May-2025,20:05:16,0.98,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:05:09Z,13-May-2025,20:05:09,0.9,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:05:03Z,13-May-2025,20:05:03,0.94,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:04:56Z,13-May-2025,20:04:56,0.86,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:04:50Z,13-May-2025,20:04:50,0.52,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:04:43Z,13-May-2025,20:04:43,0.96,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:04:36Z,13-May-2025,20:04:36,0.95,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:04:30Z,13-May-2025,20:04:30,0.86,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:04:23Z,13-May-2025,20:04:23,0.96,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:04:17Z,13-May-2025,20:04:17,0.9,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:04:10Z,13-May-2025,20:04:10,0.98,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:04:03Z,13-May-2025,20:04:03,0.94,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:03:57Z,13-May-2025,20:03:57,0.94,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:03:50Z,13-May-2025,20:03:50,0.96,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:03:44Z,13-May-2025,20:03:44,0.94,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:03:37Z,13-May-2025,20:03:37,0.95,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:03:24Z,13-May-2025,20:03:24,0.93,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:03:17Z,13-May-2025,20:03:17,0.95,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:03:11Z,13-May-2025,20:03:11,0.97,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:03:04Z,13-May-2025,20:03:04,0.96,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:02:57Z,13-May-2025,20:02:57,0.97,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:02:51Z,13-May-2025,20:02:51,0.94,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:02:44Z,13-May-2025,20:02:44,0.97,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:02:38Z,13-May-2025,20:02:38,0.92,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:02:31Z,13-May-2025,20:02:31,0.89,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:02:24Z,13-May-2025,20:02:24,0.89,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:02:18Z,13-May-2025,20:02:18,0.97,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:02:11Z,13-May-2025,20:02:11,0.31,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:02:04Z,13-May-2025,20:02:04,0.99,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:01:57Z,13-May-2025,20:01:57,0.94,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:01:51Z,13-May-2025,20:01:51,0.93,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:01:44Z,13-May-2025,20:01:44,0.93,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:01:38Z,13-May-2025,20:01:38,0.86,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:01:31Z,13-May-2025,20:01:31,0.84,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:01:25Z,13-May-2025,20:01:25,0.87,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:01:11Z,13-May-2025,20:01:11,0.9,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:01:05Z,13-May-2025,20:01:05,0.97,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:00:58Z,13-May-2025,20:00:58,0.98,1
+Eastern Phoebe,Sayornis phoebe,2025-05-14T00:00:51Z,13-May-2025,20:00:51,0.91,1
+Gray Catbird,Dumetella carolinensis,2025-05-14T00:00:12Z,13-May-2025,20:00:12,0.8314,1
